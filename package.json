@@ -1,0 +1,15 @@
+{
+    "name": "com.wen.wenTools",
+    "version": "1.0.0",
+    "displayName": "Wen工具包",
+    "description": "Unity工具包",
+    "unity": "2019.1",
+   "keywords": [
+      "Tools"
+    ],
+    "author": {
+      "name": "Wen",
+      "email": "363090828@qq.com"
+    }
+  }
+  
